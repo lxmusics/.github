@@ -9,5 +9,3 @@
 ### [LX Music Mobile](https://github.com/lyswhut/lx-music-mobile/)
 
 ![about](https://socialify.git.ci/lyswhut/lx-music-mobile/image?description=1&font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
-
-欢迎你加入我们，一起为LX Music贡献代码
