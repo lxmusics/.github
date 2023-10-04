@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/lyswhut/lx-music-desktop"><img width="200" src="https://ghproxy.com/https://github.com/lyswhut/lx-music-desktop/blob/master/doc/images/icon.png" alt="lx-music logo"></a></p>
 
-<h2 align="center">这是一个关于LX Music的组织</h2>
+<h2 align="center"></h2>
 
 ### [LX Music Desktop](https://github.com/lyswhut/lx-music-desktop/)
 
