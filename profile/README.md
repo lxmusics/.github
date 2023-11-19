@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/lyswhut/lx-music-desktop"><img width="200" src="https://ghproxy.com/https://github.com/lyswhut/lx-music-desktop/blob/master/doc/images/icon.png" alt="lx-music logo"></a></p>
+<p align="center"><a href="https://github.com/lyswhut/lx-music-desktop"><img width="200" src="https://mirror.ghproxy.com/https://github.com/lyswhut/lx-music-desktop/raw/master/doc/images/icon.png" alt="lx-music logo"></a></p>
 
 <h2></h2>
 
@@ -8,7 +8,7 @@
 
   <br />
 
-  ![about](https://socialify.git.ci/lxmusics/lx-music-api-server/image?description=1&font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
+  ![about](https://socialify.git.ci/lxmusics/lx-music-api-server/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
 </h2>
 
